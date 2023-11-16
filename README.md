@@ -31,7 +31,7 @@ I noticed, that it helped me to put borders on the different divs/sections of th
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/qr-code-with-html-css-d44N3PGDNf)
 - Live Site URL: [GitHub page](https://leeruska.github.io/QR-code-component/)
 
 ## My process
