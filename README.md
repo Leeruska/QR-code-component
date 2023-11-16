@@ -19,11 +19,10 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ## Overview
 
-A basic QR ocde page to practise HTML, CSS, VSCode & Github.
+A basic QR code page to practise HTML, CSS, VSCode & Github.
 
 ### Screenshots
 
-My solution:
 ![solution](./images/Screenshot-finished.png)
 
 I noticed, that it helped me to put borders on the different divs/sections of the page. Without them it was more difficult for me to recognize dome of the alignings and paddings. Of course I removed them before submitting (at least I hope I did...).
@@ -32,8 +31,8 @@ I noticed, that it helped me to put borders on the different divs/sections of th
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://your-solution-url.com)
+- Live Site URL: [GitHub page](https://leeruska.github.io/QR-code-component/)
 
 ## My process
 
